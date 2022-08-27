@@ -1,0 +1,47 @@
+body {
+    overflow: hidden;
+}
+#BoxSVG{
+    z-index: 1;
+    position: absolute;
+    height: 70vh;
+    width: auto;
+    left: 2vw;
+    bottom: 0;
+
+}
+
+
+.Element >svg{
+    height: 10vh;
+    width: auto;
+    position: absolute;
+    bottom: 45vh;
+}
+
+
+#Palomita1 >svg{
+    left: 10vw;
+}
+#Palomita2 >svg{
+    left: 11.625vw;
+}
+#Palomita3 >svg{
+    left: 13.25vw;
+}
+#Palomita4 >svg{
+    left: 14.875vw;
+}
+
+#Palomita5 >svg{
+    left: 16.5vw;
+}
+#Palomita6 >svg{
+    left: 18.125vw;
+}
+#Palomita7 >svg{
+    left: 19.75vw;
+}
+#Palomita8 >svg{
+    left: 21.375vw;
+}
